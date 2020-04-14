@@ -57,6 +57,6 @@ node {
 		    keepAll: true, reportDir: '', reportFiles: 'index.html', 
 		    reportName: 'HTML Report', reportTitles: '接口测试报告'
 		    ]
-        )
+        	)
 	}
 }
